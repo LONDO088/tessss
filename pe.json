@@ -1,5 +1,12 @@
 {
   "7505137919": {
-    "saldo": 3500
+    "saldo": 950,
+    "order_history": [
+      {
+        "amount": -2550,
+        "keterangan": "Order nomor 08196021464",
+        "timestamp": "2026-03-01T05:12:17.527Z"
+      }
+    ]
   }
 }
