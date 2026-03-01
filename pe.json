@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 118600,
+    "saldo": 120450,
     "order_history": [
       {
         "amount": -2550,
@@ -73,6 +73,11 @@
         "amount": 1850,
         "keterangan": "Refund otomatis (gagal order)",
         "timestamp": "2026-03-01T07:44:00.891Z"
+      },
+      {
+        "amount": 1850,
+        "keterangan": "Refund otomatis (gagal order)",
+        "timestamp": "2026-03-01T08:41:20.176Z"
       }
     ]
   }
