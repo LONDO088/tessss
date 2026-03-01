@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 120450,
+    "saldo": 117900,
     "order_history": [
       {
         "amount": -2550,
@@ -26,6 +26,11 @@
         "amount": -3400,
         "keterangan": "Order WhatsApp +63 975 976 7461 (Negara)",
         "timestamp": "2026-03-01T08:41:31.308Z"
+      },
+      {
+        "amount": -2550,
+        "keterangan": "Order WhatsApp +62 851 2407 1831 (Indonesia)",
+        "timestamp": "2026-03-01T08:43:51.112Z"
       }
     ],
     "deposit_history": [
