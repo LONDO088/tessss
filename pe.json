@@ -6,6 +6,11 @@
         "amount": -2550,
         "keterangan": "Order nomor 08196021464",
         "timestamp": "2026-03-01T05:12:17.527Z"
+      },
+      {
+        "amount": 0,
+        "keterangan": "Refund otomatis (gagal order CONFIRM_2381_1329)",
+        "timestamp": "2026-03-01T05:23:32.685Z"
       }
     ]
   }
