@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 114100,
+    "saldo": 111950,
     "order_history": [
       {
         "amount": -2550,
@@ -16,6 +16,11 @@
         "amount": 0,
         "keterangan": "Refund otomatis (gagal order)",
         "timestamp": "2026-03-01T05:32:17.013Z"
+      },
+      {
+        "amount": -2150,
+        "keterangan": "Order WhatsApp +62 851 2432 8287",
+        "timestamp": "2026-03-01T07:09:20.902Z"
       }
     ],
     "deposit_history": [
