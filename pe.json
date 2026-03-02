@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 117800,
+    "saldo": 120450,
     "order_history": [
       {
         "amount": -2550,
@@ -259,6 +259,17 @@
         "service": "WhatsApp",
         "provider_id": 1329,
         "price": 2650
+      },
+      {
+        "id": "c6ce4825-dfc9-4b74-9fe5-35c350ade69d",
+        "amount": 2650,
+        "type": "refund",
+        "keterangan": "Refund manual order RO0003539608 (dibatalkan user)",
+        "timestamp": "2026-03-02T06:27:15.867Z",
+        "order_id": "RO0003539608",
+        "phone": "+62 851 1911 4897",
+        "country": "Indonesia",
+        "cancel_status": "success"
       }
     ],
     "cancel_history": [
@@ -298,6 +309,18 @@
         "phone": "+62 821 7886 490",
         "country": "Unknown",
         "refund_amount": 1550
+      },
+      {
+        "id": "c6ce4825-dfc9-4b74-9fe5-35c350ade69d",
+        "amount": 2650,
+        "type": "refund",
+        "keterangan": "Refund manual order RO0003539608 (dibatalkan user)",
+        "timestamp": "2026-03-02T06:27:15.867Z",
+        "order_id": "RO0003539608",
+        "phone": "+62 851 1911 4897",
+        "country": "Indonesia",
+        "cancel_status": "success",
+        "refund_amount": 2650
       }
     ],
     "failed_history": [
