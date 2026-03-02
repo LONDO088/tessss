@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 120450,
+    "saldo": 117800,
     "order_history": [
       {
         "amount": -2550,
@@ -36,6 +36,19 @@
         "amount": -2650,
         "keterangan": "Order WhatsApp +62 851 7749 5439 (Indonesia)",
         "timestamp": "2026-03-02T00:53:24.606Z"
+      },
+      {
+        "id": "8389c1a1-7ee5-48cf-b8bd-2eaf4fe17851",
+        "amount": -2650,
+        "type": "order",
+        "keterangan": "Order WhatsApp +62 851 2683 4736 (Indonesia)",
+        "timestamp": "2026-03-02T03:10:56.958Z",
+        "order_id": "RO0003527186",
+        "phone": "+62 851 2683 4736",
+        "country": "Indonesia",
+        "service": "WhatsApp",
+        "provider_id": 3286,
+        "price": 2650
       }
     ],
     "deposit_history": [
@@ -108,6 +121,21 @@
         "amount": 2650,
         "keterangan": "Refund manual order RO0003520637 (waiting_otp)",
         "timestamp": "2026-03-02T00:53:30.893Z"
+      }
+    ],
+    "all_transactions": [
+      {
+        "id": "8389c1a1-7ee5-48cf-b8bd-2eaf4fe17851",
+        "amount": -2650,
+        "type": "order",
+        "keterangan": "Order WhatsApp +62 851 2683 4736 (Indonesia)",
+        "timestamp": "2026-03-02T03:10:56.958Z",
+        "order_id": "RO0003527186",
+        "phone": "+62 851 2683 4736",
+        "country": "Indonesia",
+        "service": "WhatsApp",
+        "provider_id": 3286,
+        "price": 2650
       }
     ]
   }
