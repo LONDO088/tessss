@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 120450,
+    "saldo": 117800,
     "order_history": [
       {
         "amount": -2550,
@@ -31,6 +31,11 @@
         "amount": -2550,
         "keterangan": "Order WhatsApp +62 851 2407 1831 (Indonesia)",
         "timestamp": "2026-03-01T08:43:51.112Z"
+      },
+      {
+        "amount": -2650,
+        "keterangan": "Order WhatsApp +62 851 7749 5439 (Indonesia)",
+        "timestamp": "2026-03-02T00:53:24.606Z"
       }
     ],
     "deposit_history": [
