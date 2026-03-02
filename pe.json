@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 120450,
+    "saldo": 116800,
     "order_history": [
       {
         "amount": -2550,
@@ -88,6 +88,21 @@
         "service": "WhatsApp",
         "provider_id": 1329,
         "price": 2650
+      },
+      {
+        "id": "103afe08-b0ac-4276-91a4-046499115466",
+        "amount": -3650,
+        "type": "order",
+        "keterangan": "Order WhatsApp +62 851 1911 4603 (Indonesia)",
+        "timestamp": "2026-03-02T08:07:49.749Z",
+        "order_id": "RO0003547328",
+        "phone": "+62 851 1911 4603",
+        "country": "Indonesia",
+        "service": "WhatsApp",
+        "provider_id": 1329,
+        "harga_asli": 2650,
+        "harga_jual": 3650,
+        "profit": 1000
       }
     ],
     "deposit_history": [
@@ -270,6 +285,21 @@
         "phone": "+62 851 1911 4897",
         "country": "Indonesia",
         "cancel_status": "success"
+      },
+      {
+        "id": "103afe08-b0ac-4276-91a4-046499115466",
+        "amount": -3650,
+        "type": "order",
+        "keterangan": "Order WhatsApp +62 851 1911 4603 (Indonesia)",
+        "timestamp": "2026-03-02T08:07:49.749Z",
+        "order_id": "RO0003547328",
+        "phone": "+62 851 1911 4603",
+        "country": "Indonesia",
+        "service": "WhatsApp",
+        "provider_id": 1329,
+        "harga_asli": 2650,
+        "harga_jual": 3650,
+        "profit": 1000
       }
     ],
     "cancel_history": [
