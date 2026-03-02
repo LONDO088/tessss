@@ -185,6 +185,17 @@
         "reason": "Order expired",
         "phone": "+62 831 8306 2429",
         "country": "Indonesia"
+      },
+      {
+        "id": "97254a95-678d-4e04-a2a7-c11f06155982",
+        "amount": 0,
+        "type": "failed",
+        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
+        "timestamp": "2026-03-02T04:17:52.150Z",
+        "error": "Stock penyedia habis, tunggu beberapa menit!",
+        "number_id": 837,
+        "provider_id": 3237,
+        "price": 650
       }
     ],
     "cancel_history": [
@@ -212,6 +223,19 @@
         "phone": "+62 831 8306 2429",
         "country": "Indonesia",
         "refund_amount": 1550
+      }
+    ],
+    "failed_history": [
+      {
+        "id": "97254a95-678d-4e04-a2a7-c11f06155982",
+        "amount": 0,
+        "type": "failed",
+        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
+        "timestamp": "2026-03-02T04:17:52.150Z",
+        "error": "Stock penyedia habis, tunggu beberapa menit!",
+        "number_id": 837,
+        "provider_id": 3237,
+        "price": 650
       }
     ]
   }
