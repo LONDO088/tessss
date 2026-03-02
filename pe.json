@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 117800,
+    "saldo": 120450,
     "order_history": [
       {
         "amount": -2550,
@@ -103,6 +103,11 @@
         "amount": 2550,
         "keterangan": "Refund manual order RO0003480709 (received)",
         "timestamp": "2026-03-01T08:46:39.902Z"
+      },
+      {
+        "amount": 2650,
+        "keterangan": "Refund manual order RO0003520637 (waiting_otp)",
+        "timestamp": "2026-03-02T00:53:30.893Z"
       }
     ]
   }
