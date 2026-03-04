@@ -1,120 +1,199 @@
 {
   "6281235114720": {
     "saldo": 1000000000,
-    "total_order": 0,
-    "total_deposit": 5,
-    "total_refund": 0,
-    "total_deposit_amount": 1000000000,
-    "total_order_amount": 0,
-    "total_refund_amount": 0,
-    "last_deposit": "2026-03-06T10:30:00.000Z",
-    "last_order": null,
-    "created_at": "2024-01-01T00:00:00.000Z",
-    "last_update": "2026-03-06T10:30:00.000Z",
+    "order_history": [],
     "deposit_history": [
       {
         "id": "DEPO-6E8F3A2B",
         "amount": 500000000,
         "type": "deposit",
-        "keterangan": "Deposit via Bank Transfer",
+        "keterangan": "Deposit via Bank Transfer (DEPO-6E8F3A2B)",
         "timestamp": "2026-03-06T10:30:00.000Z",
+        "invoice_id": "DEPO-6E8F3A2B",
         "metode": "bank_transfer",
-        "status": "success",
-        "saldo_sebelum": 500000000,
-        "saldo_sesudah": 1000000000
+        "saldo_akhir": 1000000000
       },
       {
         "id": "DEPO-9C7D5E1F",
         "amount": 250000000,
         "type": "deposit",
-        "keterangan": "Deposit via QRIS",
+        "keterangan": "Deposit via QRIS (DEPO-9C7D5E1F)",
         "timestamp": "2026-03-05T14:20:00.000Z",
+        "invoice_id": "DEPO-9C7D5E1F",
         "metode": "qris",
-        "status": "success",
-        "saldo_sebelum": 250000000,
-        "saldo_sesudah": 500000000
+        "saldo_akhir": 500000000
       },
       {
         "id": "DEPO-2A4B6C8D",
         "amount": 150000000,
         "type": "deposit",
-        "keterangan": "Deposit via Bank Transfer",
+        "keterangan": "Deposit via Bank Transfer (DEPO-2A4B6C8D)",
         "timestamp": "2026-03-04T09:15:00.000Z",
+        "invoice_id": "DEPO-2A4B6C8D",
         "metode": "bank_transfer",
-        "status": "success",
-        "saldo_sebelum": 100000000,
-        "saldo_sesudah": 250000000
+        "saldo_akhir": 250000000
       },
       {
         "id": "DEPO-3E5F7G9H",
         "amount": 75000000,
         "type": "deposit",
-        "keterangan": "Deposit via QRIS",
+        "keterangan": "Deposit via QRIS (DEPO-3E5F7G9H)",
         "timestamp": "2026-03-03T16:45:00.000Z",
+        "invoice_id": "DEPO-3E5F7G9H",
         "metode": "qris",
-        "status": "success",
-        "saldo_sebelum": 25000000,
-        "saldo_sesudah": 100000000
+        "saldo_akhir": 100000000
       },
       {
         "id": "DEPO-1J2K3L4M",
         "amount": 25000000,
         "type": "deposit",
-        "keterangan": "Deposit via QRIS",
+        "keterangan": "Deposit via QRIS (DEPO-1J2K3L4M)",
         "timestamp": "2026-03-02T11:30:00.000Z",
+        "invoice_id": "DEPO-1J2K3L4M",
         "metode": "qris",
-        "status": "success",
-        "saldo_sebelum": 0,
-        "saldo_sesudah": 25000000
+        "saldo_akhir": 25000000
       }
     ],
-    "order_history": [],
-    "refund_history": [],
     "all_transactions": [
       {
         "id": "DEPO-1J2K3L4M",
         "amount": 25000000,
         "type": "deposit",
-        "keterangan": "Deposit via QRIS",
+        "keterangan": "Deposit via QRIS (DEPO-1J2K3L4M)",
         "timestamp": "2026-03-02T11:30:00.000Z",
-        "metode": "qris",
-        "status": "success"
+        "invoice_id": "DEPO-1J2K3L4M"
       },
       {
         "id": "DEPO-3E5F7G9H",
         "amount": 75000000,
         "type": "deposit",
-        "keterangan": "Deposit via QRIS",
+        "keterangan": "Deposit via QRIS (DEPO-3E5F7G9H)",
         "timestamp": "2026-03-03T16:45:00.000Z",
-        "metode": "qris",
-        "status": "success"
+        "invoice_id": "DEPO-3E5F7G9H"
       },
       {
         "id": "DEPO-2A4B6C8D",
         "amount": 150000000,
         "type": "deposit",
-        "keterangan": "Deposit via Bank Transfer",
+        "keterangan": "Deposit via Bank Transfer (DEPO-2A4B6C8D)",
         "timestamp": "2026-03-04T09:15:00.000Z",
-        "metode": "bank_transfer",
-        "status": "success"
+        "invoice_id": "DEPO-2A4B6C8D"
       },
       {
         "id": "DEPO-9C7D5E1F",
         "amount": 250000000,
         "type": "deposit",
-        "keterangan": "Deposit via QRIS",
+        "keterangan": "Deposit via QRIS (DEPO-9C7D5E1F)",
         "timestamp": "2026-03-05T14:20:00.000Z",
-        "metode": "qris",
-        "status": "success"
+        "invoice_id": "DEPO-9C7D5E1F"
       },
       {
         "id": "DEPO-6E8F3A2B",
         "amount": 500000000,
         "type": "deposit",
-        "keterangan": "Deposit via Bank Transfer",
+        "keterangan": "Deposit via Bank Transfer (DEPO-6E8F3A2B)",
         "timestamp": "2026-03-06T10:30:00.000Z",
-        "metode": "bank_transfer",
-        "status": "success"
+        "invoice_id": "DEPO-6E8F3A2B"
+      }
+    ],
+    "cancel_history": [],
+    "failed_history": []
+  },
+  "7505137919": {
+    "saldo": 1203800,
+    "order_history": [
+      {
+        "id": "48808952-99f4-48f2-8196-8c2ac40cd190",
+        "amount": -4300,
+        "type": "order",
+        "keterangan": "Order WhatsApp +62 831 5773 8234 (Negara)",
+        "timestamp": "2026-03-04T03:12:28.801Z",
+        "order_id": "RO0003662734",
+        "phone": "+62 831 5773 8234",
+        "country": "Unknown",
+        "service": "WhatsApp",
+        "provider_id": 5150,
+        "harga_asli": 3300,
+        "harga_jual": 4300,
+        "profit": 1000
+      }
+    ],
+    "deposit_history": [
+      {
+        "id": "660afebb-bb7d-4b4a-95e8-fc61f63e96e0",
+        "amount": 100000,
+        "type": "deposit",
+        "keterangan": "Deposit QRIS (DEPO-A594381B)",
+        "timestamp": "2026-03-04T02:42:39.323Z",
+        "invoice_id": "DEPO-A594381B"
+      }
+    ],
+    "all_transactions": [
+      {
+        "id": "660afebb-bb7d-4b4a-95e8-fc61f63e96e0",
+        "amount": 100000,
+        "type": "deposit",
+        "keterangan": "Deposit QRIS (DEPO-A594381B)",
+        "timestamp": "2026-03-04T02:42:39.323Z",
+        "invoice_id": "DEPO-A594381B"
+      },
+      {
+        "id": "48808952-99f4-48f2-8196-8c2ac40cd190",
+        "amount": -4300,
+        "type": "order",
+        "keterangan": "Order WhatsApp +62 831 5773 8234 (Negara)",
+        "timestamp": "2026-03-04T03:12:28.801Z",
+        "order_id": "RO0003662734",
+        "phone": "+62 831 5773 8234",
+        "country": "Unknown",
+        "service": "WhatsApp",
+        "provider_id": 5150,
+        "harga_asli": 3300,
+        "harga_jual": 4300,
+        "profit": 1000
+      },
+      {
+        "id": "1c3f5d9d-2fe3-4115-a8b1-ad73cb8613f4",
+        "amount": 4300,
+        "type": "refund",
+        "keterangan": "Refund manual order RO0003662734 (dibatalkan user)",
+        "timestamp": "2026-03-04T03:16:36.712Z",
+        "order_id": "RO0003662734",
+        "phone": "+62 831 5773 8234",
+        "country": "Unknown",
+        "cancel_status": "success",
+        "harga_asli": 3300,
+        "harga_jual": 4300
+      }
+    ],
+    "cancel_history": [
+      {
+        "id": "1c3f5d9d-2fe3-4115-a8b1-ad73cb8613f4",
+        "amount": 4300,
+        "type": "refund",
+        "keterangan": "Refund manual order RO0003662734 (dibatalkan user)",
+        "timestamp": "2026-03-04T03:16:36.712Z",
+        "order_id": "RO0003662734",
+        "phone": "+62 831 5773 8234",
+        "country": "Unknown",
+        "cancel_status": "success",
+        "harga_asli": 3300,
+        "harga_jual": 4300,
+        "refund_amount": 4300
+      }
+    ],
+    "failed_history": [
+      {
+        "id": "92b2490e-95ea-40de-a93a-dc09a622f7ea",
+        "amount": 0,
+        "type": "failed",
+        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
+        "timestamp": "2026-03-04T03:12:11.508Z",
+        "error": "Stock penyedia habis, tunggu beberapa menit!",
+        "number_id": 2381,
+        "provider_id": 2982,
+        "harga_jual": 3350,
+        "harga_asli": 2350
       }
     ]
   }
