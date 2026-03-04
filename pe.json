@@ -1,521 +1,120 @@
 {
-  "7505137919": {
-    "saldo": 1203800,
-    "order_history": [
-      {
-        "amount": -2550,
-        "keterangan": "Order nomor 08196021464",
-        "timestamp": "2026-03-01T05:12:17.527Z"
-      },
-      {
-        "amount": 0,
-        "keterangan": "Refund otomatis (gagal order CONFIRM_2381_1329)",
-        "timestamp": "2026-03-01T05:23:32.685Z"
-      },
-      {
-        "amount": 0,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T05:32:17.013Z"
-      },
-      {
-        "amount": -2150,
-        "keterangan": "Order WhatsApp +62 851 2432 8287",
-        "timestamp": "2026-03-01T07:09:20.902Z"
-      },
-      {
-        "amount": -3400,
-        "keterangan": "Order WhatsApp +63 975 976 7461 (Negara)",
-        "timestamp": "2026-03-01T08:41:31.308Z"
-      },
-      {
-        "amount": -2550,
-        "keterangan": "Order WhatsApp +62 851 2407 1831 (Indonesia)",
-        "timestamp": "2026-03-01T08:43:51.112Z"
-      },
-      {
-        "amount": -2650,
-        "keterangan": "Order WhatsApp +62 851 7749 5439 (Indonesia)",
-        "timestamp": "2026-03-02T00:53:24.606Z"
-      },
-      {
-        "id": "8389c1a1-7ee5-48cf-b8bd-2eaf4fe17851",
-        "amount": -2650,
-        "type": "order",
-        "keterangan": "Order WhatsApp +62 851 2683 4736 (Indonesia)",
-        "timestamp": "2026-03-02T03:10:56.958Z",
-        "order_id": "RO0003527186",
-        "phone": "+62 851 2683 4736",
-        "country": "Indonesia",
-        "service": "WhatsApp",
-        "provider_id": 3286,
-        "price": 2650
-      },
-      {
-        "id": "427d855e-41f7-4228-b6a2-238b45792a1b",
-        "amount": -1550,
-        "type": "order",
-        "keterangan": "Order Telegram +62 831 8306 2429 (Indonesia)",
-        "timestamp": "2026-03-02T04:05:29.925Z",
-        "order_id": "RO0003530049",
-        "phone": "+62 831 8306 2429",
-        "country": "Indonesia",
-        "service": "Telegram",
-        "provider_id": 4100,
-        "price": 1550
-      },
-      {
-        "id": "b94baef9-bc1c-40f7-82f6-97bde3b3bd2b",
-        "amount": -1550,
-        "type": "order",
-        "keterangan": "Order Telegram +62 821 7886 490 (Negara)",
-        "timestamp": "2026-03-02T04:19:40.126Z",
-        "order_id": "RO0003530932",
-        "phone": "+62 821 7886 490",
-        "country": "Unknown",
-        "service": "Telegram",
-        "provider_id": 4100,
-        "price": 1550
-      },
-      {
-        "id": "dae7fd97-f554-405a-844d-75fe05dbfe84",
-        "amount": -2650,
-        "type": "order",
-        "keterangan": "Order WhatsApp +62 851 1911 4897 (Indonesia)",
-        "timestamp": "2026-03-02T06:23:08.992Z",
-        "order_id": "RO0003539608",
-        "phone": "+62 851 1911 4897",
-        "country": "Indonesia",
-        "service": "WhatsApp",
-        "provider_id": 1329,
-        "price": 2650
-      },
-      {
-        "id": "103afe08-b0ac-4276-91a4-046499115466",
-        "amount": -3650,
-        "type": "order",
-        "keterangan": "Order WhatsApp +62 851 1911 4603 (Indonesia)",
-        "timestamp": "2026-03-02T08:07:49.749Z",
-        "order_id": "RO0003547328",
-        "phone": "+62 851 1911 4603",
-        "country": "Indonesia",
-        "service": "WhatsApp",
-        "provider_id": 1329,
-        "harga_asli": 2650,
-        "harga_jual": 3650,
-        "profit": 1000
-      },
-      {
-        "id": "48808952-99f4-48f2-8196-8c2ac40cd190",
-        "amount": -4300,
-        "type": "order",
-        "keterangan": "Order WhatsApp +62 831 5773 8234 (Negara)",
-        "timestamp": "2026-03-04T03:12:28.801Z",
-        "order_id": "RO0003662734",
-        "phone": "+62 831 5773 8234",
-        "country": "Unknown",
-        "service": "WhatsApp",
-        "provider_id": 5150,
-        "harga_asli": 3300,
-        "harga_jual": 4300,
-        "profit": 1000
-      }
-    ],
+  "6281235114720": {
+    "saldo": 1000000000,
+    "total_order": 0,
+    "total_deposit": 5,
+    "total_refund": 0,
+    "total_deposit_amount": 1000000000,
+    "total_order_amount": 0,
+    "total_refund_amount": 0,
+    "last_deposit": "2026-03-06T10:30:00.000Z",
+    "last_order": null,
+    "created_at": "2024-01-01T00:00:00.000Z",
+    "last_update": "2026-03-06T10:30:00.000Z",
     "deposit_history": [
       {
-        "amount": 2550,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T05:58:29.330Z"
-      },
-      {
-        "amount": 2550,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T06:02:24.018Z"
-      },
-      {
-        "amount": 3900,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T06:03:21.655Z"
-      },
-      {
-        "amount": 3250,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T06:16:21.923Z"
-      },
-      {
-        "amount": 2550,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T06:17:03.810Z"
-      },
-      {
-        "amount": 2150,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T06:28:08.489Z"
-      },
-      {
-        "amount": 2150,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T06:28:44.891Z"
-      },
-      {
-        "amount": 2150,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T07:10:44.743Z"
-      },
-      {
-        "amount": 2650,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T07:38:09.465Z"
-      },
-      {
-        "amount": 1850,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T07:44:00.891Z"
-      },
-      {
-        "amount": 1850,
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-01T08:41:20.176Z"
-      },
-      {
-        "amount": 3400,
-        "keterangan": "Refund manual order RO0003480489 (waiting_otp)",
-        "timestamp": "2026-03-01T08:41:34.945Z"
-      },
-      {
-        "amount": 2550,
-        "keterangan": "Refund manual order RO0003480709 (received)",
-        "timestamp": "2026-03-01T08:46:39.902Z"
-      },
-      {
-        "amount": 2650,
-        "keterangan": "Refund manual order RO0003520637 (waiting_otp)",
-        "timestamp": "2026-03-02T00:53:30.893Z"
-      }
-    ],
-    "all_transactions": [
-      {
-        "id": "8389c1a1-7ee5-48cf-b8bd-2eaf4fe17851",
-        "amount": -2650,
-        "type": "order",
-        "keterangan": "Order WhatsApp +62 851 2683 4736 (Indonesia)",
-        "timestamp": "2026-03-02T03:10:56.958Z",
-        "order_id": "RO0003527186",
-        "phone": "+62 851 2683 4736",
-        "country": "Indonesia",
-        "service": "WhatsApp",
-        "provider_id": 3286,
-        "price": 2650
-      },
-      {
-        "id": "d5a6ad89-a9f5-4a6a-8409-fcade2681359",
-        "amount": 2650,
-        "type": "refund",
-        "keterangan": "Refund manual order RO0003527186 (dibatalkan user setelah 4 menit)",
-        "timestamp": "2026-03-02T03:15:04.470Z",
-        "order_id": "RO0003527186",
-        "phone": "+62 851 2683 4736",
-        "country": "Indonesia",
-        "cancel_status": "failed",
-        "api_response": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>404 - Page Not Found</title>\n    <link rel=\"stylesheet\" href=\"https://cdn.rumahotp.com/assets/vendor/fonts/iconify-icons.css\" />\n    <style>\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;\n        }\n\n        body {\n            min-height: 100vh;\n            display: flex;\n            flex-direction: column;\n            align-items: center;\n            justify-content: center;\n            background: #0D1117;\n            color: white;\n            text-align: center;\n            padding: 20px;\n            position: relative;\n        }\n\n        .error-code {\n            font-size: min(10rem, 10vw);\n            font-weight: 900;\n            margin-bottom: 1rem;\n            text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);\n            line-height: 1;\n            background: linear-gradient(45deg, #42A5F5, #64B5F6, #42A5F5);\n            background-size: 200% 200%;\n            -webkit-background-clip: text;\n            background-clip: text;\n            -webkit-text-fill-color: transparent;\n        }\n\n        .error-title {\n            font-size: min(2.5rem, 8vw);\n            margin-bottom: 1.5rem;\n            font-weight: 700;\n        }\n\n        .error-message {\n            font-size: min(1.2rem, 4.5vw);\n            max-width: 600px;\n            line-height: 1.6;\n            margin-bottom: 2.5rem;\n            opacity: 0.9;\n            width: 100%;\n            padding: 0 10px;\n        }\n\n        .action-buttons {\n            display: flex;\n            flex-wrap: wrap;\n            justify-content: center;\n            gap: 15px;\n            margin-bottom: 3rem;\n            width: 100%;\n            max-width: 340px;\n        }\n\n        .btn {\n            padding: 12px 24px;\n            border-radius: 50px;\n            text-decoration: none;\n            font-weight: 600;\n            display: inline-flex;\n            align-items: center;\n            gap: 8px;\n            transition: all 0.3s ease;\n            font-size: 1rem;\n            justify-content: center;\n            width: 100%;\n        }\n\n        .btn-primary {\n            background: white;\n            color: black;\n            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);\n        }\n\n        .btn-secondary {\n            background: rgba(255, 255, 255, 0.2);\n            color: white;\n            border: 2px solid rgba(255, 255, 255, 0.3);\n        }\n\n        .btn:hover {\n            transform: translateY(-3px);\n            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);\n        }\n\n        .footer {\n            position: fixed;\n            bottom: 0;\n            left: 0;\n            right: 0;\n            padding: 1rem;\n            font-size: 0.9rem;\n            background: #0D1117;\n        }\n\n        @keyframes float {\n            from { transform: translateY(100vh) rotate(0deg); }\n            to { transform: translateY(-100px) rotate(360deg); }\n        }\n\n        @media (max-width: 480px) {\n            .action-buttons {\n                flex-direction: column;\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"error-code\">404</div>\n    \n    <h1 class=\"error-title\">Page Not Found</h1>\n    \n    <p class=\"error-message\">\n        Halaman website yang Anda cari tidak ada atau telah dipindahkan.\n        Silakan periksa URL atau kembali ke beranda kami.\n    </p>\n    \n    <div class=\"action-buttons\">\n        <a href=\"/\" class=\"btn btn-primary\">\n            <i class=\"bx bx-home\"></i> Go Back Home\n        </a>\n        <div style=\"display: flex; gap: 15px; width: 100%;\">\n            <a href=\"javascript:void(0)\" onclick=\"history.back()\" class=\"btn btn-secondary\" id=\"back-btn\">\n                <i class=\"bx bx-arrow-back\"></i> Go Back\n            </a>\n            <a href=\"https://t.me/rumahotp_com\" class=\"btn btn-secondary\">\n                <i class=\"bx bxl-telegram\"></i> Support\n            </a>\n        </div>\n    </div>\n    \n    <div class=\"footer\">\n        <p>&copy; 2025 • PT Cindigital Multisystem Cloud. If you need immediate assistance, please contact our support team.</p>\n    </div>\n\n    <script>\n        document.addEventListener('DOMContentLoaded', function() {\n            const body = document.body;\n            for (let i = 0; i < 15; i++) {\n                const dot = document.createElement('div');\n                dot.style.position = 'fixed';\n                dot.style.width = Math.random() * 6 + 2 + 'px';\n                dot.style.height = dot.style.width;\n                dot.style.background = 'rgba(255, 255, 255, 0.5)';\n                dot.style.borderRadius = '50%';\n                dot.style.left = Math.random() * 100 + 'vw';\n                dot.style.top = Math.random() * 100 + 'vh';\n                dot.style.zIndex = '-1';\n                dot.style.animation = `float ${Math.random() * 10 + 10}s linear infinite`;\n                body.appendChild(dot);\n            }\n        });\n    </script>\n</body>\n</html>"
-      },
-      {
-        "id": "427d855e-41f7-4228-b6a2-238b45792a1b",
-        "amount": -1550,
-        "type": "order",
-        "keterangan": "Order Telegram +62 831 8306 2429 (Indonesia)",
-        "timestamp": "2026-03-02T04:05:29.925Z",
-        "order_id": "RO0003530049",
-        "phone": "+62 831 8306 2429",
-        "country": "Indonesia",
-        "service": "Telegram",
-        "provider_id": 4100,
-        "price": 1550
-      },
-      {
-        "id": "2cb6ab78-deb5-4f14-8c2f-1a65db9fd409",
-        "amount": 1550,
-        "type": "refund",
-        "keterangan": "Refund order RO0003530049 (kadaluarsa)",
-        "timestamp": "2026-03-02T04:08:32.252Z",
-        "order_id": "RO0003530049",
-        "reason": "Order expired",
-        "phone": "+62 831 8306 2429",
-        "country": "Indonesia"
-      },
-      {
-        "id": "97254a95-678d-4e04-a2a7-c11f06155982",
-        "amount": 0,
-        "type": "failed",
-        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
-        "timestamp": "2026-03-02T04:17:52.150Z",
-        "error": "Stock penyedia habis, tunggu beberapa menit!",
-        "number_id": 837,
-        "provider_id": 3237,
-        "price": 650
-      },
-      {
-        "id": "b94baef9-bc1c-40f7-82f6-97bde3b3bd2b",
-        "amount": -1550,
-        "type": "order",
-        "keterangan": "Order Telegram +62 821 7886 490 (Negara)",
-        "timestamp": "2026-03-02T04:19:40.126Z",
-        "order_id": "RO0003530932",
-        "phone": "+62 821 7886 490",
-        "country": "Unknown",
-        "service": "Telegram",
-        "provider_id": 4100,
-        "price": 1550
-      },
-      {
-        "id": "18b7c783-ee7b-4811-b07c-a5e8783f7cf6",
-        "amount": 1550,
-        "type": "refund",
-        "keterangan": "Refund order RO0003530932 (kadaluarsa)",
-        "timestamp": "2026-03-02T04:28:22.845Z",
-        "order_id": "RO0003530932",
-        "reason": "Order expired",
-        "phone": "+62 821 7886 490",
-        "country": "Unknown"
-      },
-      {
-        "id": "dae7fd97-f554-405a-844d-75fe05dbfe84",
-        "amount": -2650,
-        "type": "order",
-        "keterangan": "Order WhatsApp +62 851 1911 4897 (Indonesia)",
-        "timestamp": "2026-03-02T06:23:08.992Z",
-        "order_id": "RO0003539608",
-        "phone": "+62 851 1911 4897",
-        "country": "Indonesia",
-        "service": "WhatsApp",
-        "provider_id": 1329,
-        "price": 2650
-      },
-      {
-        "id": "c6ce4825-dfc9-4b74-9fe5-35c350ade69d",
-        "amount": 2650,
-        "type": "refund",
-        "keterangan": "Refund manual order RO0003539608 (dibatalkan user)",
-        "timestamp": "2026-03-02T06:27:15.867Z",
-        "order_id": "RO0003539608",
-        "phone": "+62 851 1911 4897",
-        "country": "Indonesia",
-        "cancel_status": "success"
-      },
-      {
-        "id": "103afe08-b0ac-4276-91a4-046499115466",
-        "amount": -3650,
-        "type": "order",
-        "keterangan": "Order WhatsApp +62 851 1911 4603 (Indonesia)",
-        "timestamp": "2026-03-02T08:07:49.749Z",
-        "order_id": "RO0003547328",
-        "phone": "+62 851 1911 4603",
-        "country": "Indonesia",
-        "service": "WhatsApp",
-        "provider_id": 1329,
-        "harga_asli": 2650,
-        "harga_jual": 3650,
-        "profit": 1000
-      },
-      {
-        "id": "f1c7f659-99ad-4a85-b55b-de2e319b76cc",
-        "amount": 3650,
-        "type": "refund",
-        "keterangan": "Refund manual order RO0003547328 (dibatalkan user)",
-        "timestamp": "2026-03-02T08:12:35.236Z",
-        "order_id": "RO0003547328",
-        "phone": "+62 851 1911 4603",
-        "country": "Indonesia",
-        "cancel_status": "success",
-        "harga_asli": 2650,
-        "harga_jual": 3650
-      },
-      {
-        "id": "92b2490e-95ea-40de-a93a-dc09a622f7ea",
-        "amount": 0,
-        "type": "failed",
-        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
-        "timestamp": "2026-03-04T03:12:11.508Z",
-        "error": "Stock penyedia habis, tunggu beberapa menit!",
-        "number_id": 2381,
-        "provider_id": 2982,
-        "harga_jual": 3350,
-        "harga_asli": 2350
-      },
-      {
-        "id": "1805503c-219e-48e4-b4e2-91aa73df9544",
-        "amount": 3350,
-        "type": "refund",
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-04T03:12:13.002Z",
-        "reason": "Order gagal dari API",
-        "harga_jual": 3350,
-        "harga_asli": 2350
-      },
-      {
-        "id": "48808952-99f4-48f2-8196-8c2ac40cd190",
-        "amount": -4300,
-        "type": "order",
-        "keterangan": "Order WhatsApp +62 831 5773 8234 (Negara)",
-        "timestamp": "2026-03-04T03:12:28.801Z",
-        "order_id": "RO0003662734",
-        "phone": "+62 831 5773 8234",
-        "country": "Unknown",
-        "service": "WhatsApp",
-        "provider_id": 5150,
-        "harga_asli": 3300,
-        "harga_jual": 4300,
-        "profit": 1000
-      },
-      {
-        "id": "1c3f5d9d-2fe3-4115-a8b1-ad73cb8613f4",
-        "amount": 4300,
-        "type": "refund",
-        "keterangan": "Refund manual order RO0003662734 (dibatalkan user)",
-        "timestamp": "2026-03-04T03:16:36.712Z",
-        "order_id": "RO0003662734",
-        "phone": "+62 831 5773 8234",
-        "country": "Unknown",
-        "cancel_status": "success",
-        "harga_asli": 3300,
-        "harga_jual": 4300
-      }
-    ],
-    "cancel_history": [
-      {
-        "id": "d5a6ad89-a9f5-4a6a-8409-fcade2681359",
-        "amount": 2650,
-        "type": "refund",
-        "keterangan": "Refund manual order RO0003527186 (dibatalkan user setelah 4 menit)",
-        "timestamp": "2026-03-02T03:15:04.470Z",
-        "order_id": "RO0003527186",
-        "phone": "+62 851 2683 4736",
-        "country": "Indonesia",
-        "cancel_status": "failed",
-        "api_response": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>404 - Page Not Found</title>\n    <link rel=\"stylesheet\" href=\"https://cdn.rumahotp.com/assets/vendor/fonts/iconify-icons.css\" />\n    <style>\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;\n        }\n\n        body {\n            min-height: 100vh;\n            display: flex;\n            flex-direction: column;\n            align-items: center;\n            justify-content: center;\n            background: #0D1117;\n            color: white;\n            text-align: center;\n            padding: 20px;\n            position: relative;\n        }\n\n        .error-code {\n            font-size: min(10rem, 10vw);\n            font-weight: 900;\n            margin-bottom: 1rem;\n            text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);\n            line-height: 1;\n            background: linear-gradient(45deg, #42A5F5, #64B5F6, #42A5F5);\n            background-size: 200% 200%;\n            -webkit-background-clip: text;\n            background-clip: text;\n            -webkit-text-fill-color: transparent;\n        }\n\n        .error-title {\n            font-size: min(2.5rem, 8vw);\n            margin-bottom: 1.5rem;\n            font-weight: 700;\n        }\n\n        .error-message {\n            font-size: min(1.2rem, 4.5vw);\n            max-width: 600px;\n            line-height: 1.6;\n            margin-bottom: 2.5rem;\n            opacity: 0.9;\n            width: 100%;\n            padding: 0 10px;\n        }\n\n        .action-buttons {\n            display: flex;\n            flex-wrap: wrap;\n            justify-content: center;\n            gap: 15px;\n            margin-bottom: 3rem;\n            width: 100%;\n            max-width: 340px;\n        }\n\n        .btn {\n            padding: 12px 24px;\n            border-radius: 50px;\n            text-decoration: none;\n            font-weight: 600;\n            display: inline-flex;\n            align-items: center;\n            gap: 8px;\n            transition: all 0.3s ease;\n            font-size: 1rem;\n            justify-content: center;\n            width: 100%;\n        }\n\n        .btn-primary {\n            background: white;\n            color: black;\n            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);\n        }\n\n        .btn-secondary {\n            background: rgba(255, 255, 255, 0.2);\n            color: white;\n            border: 2px solid rgba(255, 255, 255, 0.3);\n        }\n\n        .btn:hover {\n            transform: translateY(-3px);\n            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);\n        }\n\n        .footer {\n            position: fixed;\n            bottom: 0;\n            left: 0;\n            right: 0;\n            padding: 1rem;\n            font-size: 0.9rem;\n            background: #0D1117;\n        }\n\n        @keyframes float {\n            from { transform: translateY(100vh) rotate(0deg); }\n            to { transform: translateY(-100px) rotate(360deg); }\n        }\n\n        @media (max-width: 480px) {\n            .action-buttons {\n                flex-direction: column;\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"error-code\">404</div>\n    \n    <h1 class=\"error-title\">Page Not Found</h1>\n    \n    <p class=\"error-message\">\n        Halaman website yang Anda cari tidak ada atau telah dipindahkan.\n        Silakan periksa URL atau kembali ke beranda kami.\n    </p>\n    \n    <div class=\"action-buttons\">\n        <a href=\"/\" class=\"btn btn-primary\">\n            <i class=\"bx bx-home\"></i> Go Back Home\n        </a>\n        <div style=\"display: flex; gap: 15px; width: 100%;\">\n            <a href=\"javascript:void(0)\" onclick=\"history.back()\" class=\"btn btn-secondary\" id=\"back-btn\">\n                <i class=\"bx bx-arrow-back\"></i> Go Back\n            </a>\n            <a href=\"https://t.me/rumahotp_com\" class=\"btn btn-secondary\">\n                <i class=\"bx bxl-telegram\"></i> Support\n            </a>\n        </div>\n    </div>\n    \n    <div class=\"footer\">\n        <p>&copy; 2025 • PT Cindigital Multisystem Cloud. If you need immediate assistance, please contact our support team.</p>\n    </div>\n\n    <script>\n        document.addEventListener('DOMContentLoaded', function() {\n            const body = document.body;\n            for (let i = 0; i < 15; i++) {\n                const dot = document.createElement('div');\n                dot.style.position = 'fixed';\n                dot.style.width = Math.random() * 6 + 2 + 'px';\n                dot.style.height = dot.style.width;\n                dot.style.background = 'rgba(255, 255, 255, 0.5)';\n                dot.style.borderRadius = '50%';\n                dot.style.left = Math.random() * 100 + 'vw';\n                dot.style.top = Math.random() * 100 + 'vh';\n                dot.style.zIndex = '-1';\n                dot.style.animation = `float ${Math.random() * 10 + 10}s linear infinite`;\n                body.appendChild(dot);\n            }\n        });\n    </script>\n</body>\n</html>",
-        "refund_amount": 2650
-      },
-      {
-        "id": "2cb6ab78-deb5-4f14-8c2f-1a65db9fd409",
-        "amount": 1550,
-        "type": "refund",
-        "keterangan": "Refund order RO0003530049 (kadaluarsa)",
-        "timestamp": "2026-03-02T04:08:32.252Z",
-        "order_id": "RO0003530049",
-        "reason": "Order expired",
-        "phone": "+62 831 8306 2429",
-        "country": "Indonesia",
-        "refund_amount": 1550
-      },
-      {
-        "id": "18b7c783-ee7b-4811-b07c-a5e8783f7cf6",
-        "amount": 1550,
-        "type": "refund",
-        "keterangan": "Refund order RO0003530932 (kadaluarsa)",
-        "timestamp": "2026-03-02T04:28:22.845Z",
-        "order_id": "RO0003530932",
-        "reason": "Order expired",
-        "phone": "+62 821 7886 490",
-        "country": "Unknown",
-        "refund_amount": 1550
-      },
-      {
-        "id": "c6ce4825-dfc9-4b74-9fe5-35c350ade69d",
-        "amount": 2650,
-        "type": "refund",
-        "keterangan": "Refund manual order RO0003539608 (dibatalkan user)",
-        "timestamp": "2026-03-02T06:27:15.867Z",
-        "order_id": "RO0003539608",
-        "phone": "+62 851 1911 4897",
-        "country": "Indonesia",
-        "cancel_status": "success",
-        "refund_amount": 2650
-      },
-      {
-        "id": "f1c7f659-99ad-4a85-b55b-de2e319b76cc",
-        "amount": 3650,
-        "type": "refund",
-        "keterangan": "Refund manual order RO0003547328 (dibatalkan user)",
-        "timestamp": "2026-03-02T08:12:35.236Z",
-        "order_id": "RO0003547328",
-        "phone": "+62 851 1911 4603",
-        "country": "Indonesia",
-        "cancel_status": "success",
-        "harga_asli": 2650,
-        "harga_jual": 3650,
-        "refund_amount": 3650
-      },
-      {
-        "id": "1805503c-219e-48e4-b4e2-91aa73df9544",
-        "amount": 3350,
-        "type": "refund",
-        "keterangan": "Refund otomatis (gagal order)",
-        "timestamp": "2026-03-04T03:12:13.002Z",
-        "reason": "Order gagal dari API",
-        "harga_jual": 3350,
-        "harga_asli": 2350,
-        "refund_amount": 3350
-      },
-      {
-        "id": "1c3f5d9d-2fe3-4115-a8b1-ad73cb8613f4",
-        "amount": 4300,
-        "type": "refund",
-        "keterangan": "Refund manual order RO0003662734 (dibatalkan user)",
-        "timestamp": "2026-03-04T03:16:36.712Z",
-        "order_id": "RO0003662734",
-        "phone": "+62 831 5773 8234",
-        "country": "Unknown",
-        "cancel_status": "success",
-        "harga_asli": 3300,
-        "harga_jual": 4300,
-        "refund_amount": 4300
-      }
-    ],
-    "failed_history": [
-      {
-        "id": "97254a95-678d-4e04-a2a7-c11f06155982",
-        "amount": 0,
-        "type": "failed",
-        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
-        "timestamp": "2026-03-02T04:17:52.150Z",
-        "error": "Stock penyedia habis, tunggu beberapa menit!",
-        "number_id": 837,
-        "provider_id": 3237,
-        "price": 650
-      },
-      {
-        "id": "92b2490e-95ea-40de-a93a-dc09a622f7ea",
-        "amount": 0,
-        "type": "failed",
-        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
-        "timestamp": "2026-03-04T03:12:11.508Z",
-        "error": "Stock penyedia habis, tunggu beberapa menit!",
-        "number_id": 2381,
-        "provider_id": 2982,
-        "harga_jual": 3350,
-        "harga_asli": 2350
-      }
-    ]
-  },
-{
-  "DEPO-6E8F3A2B": {
-    "user": "6281235114720@s.whatsapp.net",
-    "amount": 5000000,
-    "status": "success",
-    "timestamp": "2024-03-06T10:30:00.000Z",
-    "saldo_akhir": 15000000
-  }
-}
-    "order_history": [],
-    "cancel_history": [],
-    "failed_history": [],
-    "all_transactions": [
-      {
-        "id": "660afebb-bb7d-4b4a-95e8-fc61f63e96e0",
-        "amount": 100000,
+        "id": "DEPO-6E8F3A2B",
+        "amount": 500000000,
         "type": "deposit",
-        "keterangan": "Deposit QRIS (DEPO-A594381B)",
-        "timestamp": "2026-03-04T02:42:39.323Z",
-        "invoice_id": "DEPO-A594381B"
+        "keterangan": "Deposit via Bank Transfer",
+        "timestamp": "2026-03-06T10:30:00.000Z",
+        "metode": "bank_transfer",
+        "status": "success",
+        "saldo_sebelum": 500000000,
+        "saldo_sesudah": 1000000000
+      },
+      {
+        "id": "DEPO-9C7D5E1F",
+        "amount": 250000000,
+        "type": "deposit",
+        "keterangan": "Deposit via QRIS",
+        "timestamp": "2026-03-05T14:20:00.000Z",
+        "metode": "qris",
+        "status": "success",
+        "saldo_sebelum": 250000000,
+        "saldo_sesudah": 500000000
+      },
+      {
+        "id": "DEPO-2A4B6C8D",
+        "amount": 150000000,
+        "type": "deposit",
+        "keterangan": "Deposit via Bank Transfer",
+        "timestamp": "2026-03-04T09:15:00.000Z",
+        "metode": "bank_transfer",
+        "status": "success",
+        "saldo_sebelum": 100000000,
+        "saldo_sesudah": 250000000
+      },
+      {
+        "id": "DEPO-3E5F7G9H",
+        "amount": 75000000,
+        "type": "deposit",
+        "keterangan": "Deposit via QRIS",
+        "timestamp": "2026-03-03T16:45:00.000Z",
+        "metode": "qris",
+        "status": "success",
+        "saldo_sebelum": 25000000,
+        "saldo_sesudah": 100000000
+      },
+      {
+        "id": "DEPO-1J2K3L4M",
+        "amount": 25000000,
+        "type": "deposit",
+        "keterangan": "Deposit via QRIS",
+        "timestamp": "2026-03-02T11:30:00.000Z",
+        "metode": "qris",
+        "status": "success",
+        "saldo_sebelum": 0,
+        "saldo_sesudah": 25000000
+      }
+    ],
+    "order_history": [],
+    "refund_history": [],
+    "all_transactions": [
+      {
+        "id": "DEPO-1J2K3L4M",
+        "amount": 25000000,
+        "type": "deposit",
+        "keterangan": "Deposit via QRIS",
+        "timestamp": "2026-03-02T11:30:00.000Z",
+        "metode": "qris",
+        "status": "success"
+      },
+      {
+        "id": "DEPO-3E5F7G9H",
+        "amount": 75000000,
+        "type": "deposit",
+        "keterangan": "Deposit via QRIS",
+        "timestamp": "2026-03-03T16:45:00.000Z",
+        "metode": "qris",
+        "status": "success"
+      },
+      {
+        "id": "DEPO-2A4B6C8D",
+        "amount": 150000000,
+        "type": "deposit",
+        "keterangan": "Deposit via Bank Transfer",
+        "timestamp": "2026-03-04T09:15:00.000Z",
+        "metode": "bank_transfer",
+        "status": "success"
+      },
+      {
+        "id": "DEPO-9C7D5E1F",
+        "amount": 250000000,
+        "type": "deposit",
+        "keterangan": "Deposit via QRIS",
+        "timestamp": "2026-03-05T14:20:00.000Z",
+        "metode": "qris",
+        "status": "success"
+      },
+      {
+        "id": "DEPO-6E8F3A2B",
+        "amount": 500000000,
+        "type": "deposit",
+        "keterangan": "Deposit via Bank Transfer",
+        "timestamp": "2026-03-06T10:30:00.000Z",
+        "metode": "bank_transfer",
+        "status": "success"
       }
     ]
   }
