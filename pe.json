@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 1200450,
+    "saldo": 1203800,
     "order_history": [
       {
         "amount": -2550,
@@ -325,6 +325,16 @@
         "provider_id": 2982,
         "harga_jual": 3350,
         "harga_asli": 2350
+      },
+      {
+        "id": "1805503c-219e-48e4-b4e2-91aa73df9544",
+        "amount": 3350,
+        "type": "refund",
+        "keterangan": "Refund otomatis (gagal order)",
+        "timestamp": "2026-03-04T03:12:13.002Z",
+        "reason": "Order gagal dari API",
+        "harga_jual": 3350,
+        "harga_asli": 2350
       }
     ],
     "cancel_history": [
@@ -390,6 +400,17 @@
         "harga_asli": 2650,
         "harga_jual": 3650,
         "refund_amount": 3650
+      },
+      {
+        "id": "1805503c-219e-48e4-b4e2-91aa73df9544",
+        "amount": 3350,
+        "type": "refund",
+        "keterangan": "Refund otomatis (gagal order)",
+        "timestamp": "2026-03-04T03:12:13.002Z",
+        "reason": "Order gagal dari API",
+        "harga_jual": 3350,
+        "harga_asli": 2350,
+        "refund_amount": 3350
       }
     ],
     "failed_history": [
