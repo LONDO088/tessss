@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 1199500,
+    "saldo": 1203800,
     "order_history": [
       {
         "amount": -2550,
@@ -365,6 +365,19 @@
         "harga_asli": 3300,
         "harga_jual": 4300,
         "profit": 1000
+      },
+      {
+        "id": "1c3f5d9d-2fe3-4115-a8b1-ad73cb8613f4",
+        "amount": 4300,
+        "type": "refund",
+        "keterangan": "Refund manual order RO0003662734 (dibatalkan user)",
+        "timestamp": "2026-03-04T03:16:36.712Z",
+        "order_id": "RO0003662734",
+        "phone": "+62 831 5773 8234",
+        "country": "Unknown",
+        "cancel_status": "success",
+        "harga_asli": 3300,
+        "harga_jual": 4300
       }
     ],
     "cancel_history": [
@@ -441,6 +454,20 @@
         "harga_jual": 3350,
         "harga_asli": 2350,
         "refund_amount": 3350
+      },
+      {
+        "id": "1c3f5d9d-2fe3-4115-a8b1-ad73cb8613f4",
+        "amount": 4300,
+        "type": "refund",
+        "keterangan": "Refund manual order RO0003662734 (dibatalkan user)",
+        "timestamp": "2026-03-04T03:16:36.712Z",
+        "order_id": "RO0003662734",
+        "phone": "+62 831 5773 8234",
+        "country": "Unknown",
+        "cancel_status": "success",
+        "harga_asli": 3300,
+        "harga_jual": 4300,
+        "refund_amount": 4300
       }
     ],
     "failed_history": [
