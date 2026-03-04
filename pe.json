@@ -313,6 +313,18 @@
         "cancel_status": "success",
         "harga_asli": 2650,
         "harga_jual": 3650
+      },
+      {
+        "id": "92b2490e-95ea-40de-a93a-dc09a622f7ea",
+        "amount": 0,
+        "type": "failed",
+        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
+        "timestamp": "2026-03-04T03:12:11.508Z",
+        "error": "Stock penyedia habis, tunggu beberapa menit!",
+        "number_id": 2381,
+        "provider_id": 2982,
+        "harga_jual": 3350,
+        "harga_asli": 2350
       }
     ],
     "cancel_history": [
@@ -391,6 +403,18 @@
         "number_id": 837,
         "provider_id": 3237,
         "price": 650
+      },
+      {
+        "id": "92b2490e-95ea-40de-a93a-dc09a622f7ea",
+        "amount": 0,
+        "type": "failed",
+        "keterangan": "Gagal order: Stock penyedia habis, tunggu beberapa menit!",
+        "timestamp": "2026-03-04T03:12:11.508Z",
+        "error": "Stock penyedia habis, tunggu beberapa menit!",
+        "number_id": 2381,
+        "provider_id": 2982,
+        "harga_jual": 3350,
+        "harga_asli": 2350
       }
     ]
   },
