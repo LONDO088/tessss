@@ -496,18 +496,15 @@
       }
     ]
   },
-  "6281235114720@s.whatsapp.net": {
-    "saldo": 100000,
-    "deposit_history": [
-      {
-        "id": "660afebb-bb7d-4b4a-95e8-fc61f63e96e0",
-        "amount": 1000,
-        "type": "deposit",
-        "keterangan": "Deposit QRIS (DEPO-A594381B)",
-        "timestamp": "2026-03-04T02:42:39.323Z",
-        "invoice_id": "DEPO-A594381B"
-      }
-    ],
+{
+  "DEPO-6E8F3A2B": {
+    "user": "6281235114720@s.whatsapp.net",
+    "amount": 5000000,
+    "status": "success",
+    "timestamp": "2024-03-06T10:30:00.000Z",
+    "saldo_akhir": 15000000
+  }
+}
     "order_history": [],
     "cancel_history": [],
     "failed_history": [],
