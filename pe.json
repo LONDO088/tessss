@@ -1,6 +1,6 @@
 {
   "7505137919": {
-    "saldo": 1203800,
+    "saldo": 1199500,
     "order_history": [
       {
         "amount": -2550,
@@ -102,6 +102,21 @@
         "provider_id": 1329,
         "harga_asli": 2650,
         "harga_jual": 3650,
+        "profit": 1000
+      },
+      {
+        "id": "48808952-99f4-48f2-8196-8c2ac40cd190",
+        "amount": -4300,
+        "type": "order",
+        "keterangan": "Order WhatsApp +62 831 5773 8234 (Negara)",
+        "timestamp": "2026-03-04T03:12:28.801Z",
+        "order_id": "RO0003662734",
+        "phone": "+62 831 5773 8234",
+        "country": "Unknown",
+        "service": "WhatsApp",
+        "provider_id": 5150,
+        "harga_asli": 3300,
+        "harga_jual": 4300,
         "profit": 1000
       }
     ],
@@ -335,6 +350,21 @@
         "reason": "Order gagal dari API",
         "harga_jual": 3350,
         "harga_asli": 2350
+      },
+      {
+        "id": "48808952-99f4-48f2-8196-8c2ac40cd190",
+        "amount": -4300,
+        "type": "order",
+        "keterangan": "Order WhatsApp +62 831 5773 8234 (Negara)",
+        "timestamp": "2026-03-04T03:12:28.801Z",
+        "order_id": "RO0003662734",
+        "phone": "+62 831 5773 8234",
+        "country": "Unknown",
+        "service": "WhatsApp",
+        "provider_id": 5150,
+        "harga_asli": 3300,
+        "harga_jual": 4300,
+        "profit": 1000
       }
     ],
     "cancel_history": [
