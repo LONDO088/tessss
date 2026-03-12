@@ -1,0 +1,71 @@
+{
+  "netflix": {
+    "1bln": [
+      { "email": "netflix_user1@gmail.com", "password": "nfpass123" },
+      { "email": "netflix_user2@gmail.com", "password": "nfpass456" },
+      { "email": "netflix_user3@gmail.com", "password": "nfpass789" }
+    ],
+    "3bln": [
+      { "email": "netflix_premium1@gmail.com", "password": "nf3bln123" },
+      { "email": "netflix_premium2@gmail.com", "password": "nf3bln456" }
+    ],
+    "1th": [
+      { "email": "netflix_year1@gmail.com", "password": "nfyear123" }
+    ]
+  },
+  "spotify": {
+    "1bln": [
+      { "email": "spotify.user1@yahoo.com", "password": "sp123456" },
+      { "email": "spotify.user2@yahoo.com", "password": "sp789012" }
+    ],
+    "3bln": [
+      { "email": "spotify.premium@outlook.com", "password": "sp3bln123" }
+    ],
+    "1th": [
+      { "email": "spotify.year@gmail.com", "password": "spth12345" }
+    ]
+  },
+  "canva": {
+    "1bln": [
+      { "email": "canva_user1@gmail.com", "password": "cv123456" },
+      { "email": "canva_user2@gmail.com", "password": "cv789012" }
+    ],
+    "1bln_disen": [
+      { "email": "canva.design1@gmail.com", "password": "cvdesign123" },
+      { "email": "canva.design2@gmail.com", "password": "cvdesign456" },
+      { "email": "canva.design3@gmail.com", "password": "cvdesign789" }
+    ],
+    "1th": [
+      { "email": "canva.pro.year@gmail.com", "password": "cvpro123" }
+    ]
+  },
+  "viu": {
+    "3bln": [
+      { "email": "viu_fan1@gmail.com", "password": "viu321" },
+      { "email": "viu_fan2@gmail.com", "password": "viu654" }
+    ],
+    "1th": [
+      { "email": "viu.year@gmail.com", "password": "viu987" }
+    ]
+  },
+  "capcut": {
+    "7d": [
+      { "email": "capcut7d1@gmail.com", "password": "cc7d123" },
+      { "email": "capcut7d2@gmail.com", "password": "cc7d456" },
+      { "email": "capcut7d3@gmail.com", "password": "cc7d789" },
+      { "email": "capcut7d4@gmail.com", "password": "cc7d000" }
+    ],
+    "21d": [
+      { "email": "capcut21d1@gmail.com", "password": "cc21d123" },
+      { "email": "capcut21d2@gmail.com", "password": "cc21d456" }
+    ],
+    "28d": [
+      { "email": "capcut28d1@gmail.com", "password": "cc28d123" },
+      { "email": "capcut28d2@gmail.com", "password": "cc28d456" },
+      { "email": "capcut28d3@gmail.com", "password": "cc28d789" }
+    ],
+    "35h": [
+      { "email": "capcut35h1@gmail.com", "password": "cc35h123" }
+    ]
+  }
+}
