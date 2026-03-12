@@ -1,68 +1,56 @@
 {
   "netflix": {
     "1bln": [
-      { "email": "netflix_user1@gmail.com", "password": "nfpass123" },
-      { "email": "netflix_user2@gmail.com", "password": "nfpass456" },
-      { "email": "netflix_user3@gmail.com", "password": "nfpass789" }
+      { "email": "netflix1@gmail.com", "password": "nf123" },
+      { "email": "netflix2@gmail.com", "password": "nf456" }
     ],
     "3bln": [
-      { "email": "netflix_premium1@gmail.com", "password": "nf3bln123" },
-      { "email": "netflix_premium2@gmail.com", "password": "nf3bln456" }
+      { "email": "netflix3bln@gmail.com", "password": "nf3bln123" }
     ],
     "1th": [
-      { "email": "netflix_year1@gmail.com", "password": "nfyear123" }
+      { "email": "netflix1th@gmail.com", "password": "nfth123" }
     ]
   },
   "spotify": {
     "1bln": [
-      { "email": "spotify.user1@yahoo.com", "password": "sp123456" },
-      { "email": "spotify.user2@yahoo.com", "password": "sp789012" }
+      { "email": "spotify1@gmail.com", "password": "sp123" }
     ],
     "3bln": [
-      { "email": "spotify.premium@outlook.com", "password": "sp3bln123" }
+      { "email": "spotify3bln@gmail.com", "password": "sp3bln123" }
     ],
     "1th": [
-      { "email": "spotify.year@gmail.com", "password": "spth12345" }
+      { "email": "spotify1th@gmail.com", "password": "spth123" }
     ]
   },
   "canva": {
     "1bln": [
-      { "email": "canva_user1@gmail.com", "password": "cv123456" },
-      { "email": "canva_user2@gmail.com", "password": "cv789012" }
+      { "email": "canva1@gmail.com", "password": "cv123" }
     ],
     "1bln_disen": [
-      { "email": "canva.design1@gmail.com", "password": "cvdesign123" },
-      { "email": "canva.design2@gmail.com", "password": "cvdesign456" },
-      { "email": "canva.design3@gmail.com", "password": "cvdesign789" }
+      { "email": "canvadesign1@gmail.com", "password": "cvdesign123" }
     ],
     "1th": [
-      { "email": "canva.pro.year@gmail.com", "password": "cvpro123" }
+      { "email": "canva1th@gmail.com", "password": "cvth123" }
     ]
   },
   "viu": {
     "3bln": [
-      { "email": "viu_fan1@gmail.com", "password": "viu321" },
-      { "email": "viu_fan2@gmail.com", "password": "viu654" }
+      { "email": "viu1@gmail.com", "password": "viu123" }
     ],
     "1th": [
-      { "email": "viu.year@gmail.com", "password": "viu987" }
+      { "email": "viu1th@gmail.com", "password": "viuth123" }
     ]
   },
   "capcut": {
     "7d": [
       { "email": "capcut7d1@gmail.com", "password": "cc7d123" },
-      { "email": "capcut7d2@gmail.com", "password": "cc7d456" },
-      { "email": "capcut7d3@gmail.com", "password": "cc7d789" },
-      { "email": "capcut7d4@gmail.com", "password": "cc7d000" }
+      { "email": "capcut7d2@gmail.com", "password": "cc7d456" }
     ],
     "21d": [
-      { "email": "capcut21d1@gmail.com", "password": "cc21d123" },
-      { "email": "capcut21d2@gmail.com", "password": "cc21d456" }
+      { "email": "capcut21d1@gmail.com", "password": "cc21d123" }
     ],
     "28d": [
-      { "email": "capcut28d1@gmail.com", "password": "cc28d123" },
-      { "email": "capcut28d2@gmail.com", "password": "cc28d456" },
-      { "email": "capcut28d3@gmail.com", "password": "cc28d789" }
+      { "email": "capcut28d1@gmail.com", "password": "cc28d123" }
     ],
     "35h": [
       { "email": "capcut35h1@gmail.com", "password": "cc35h123" }
